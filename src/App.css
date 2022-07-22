@@ -1,0 +1,23 @@
+
+  
+.circle{
+    width: 200px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background-color: #aaa;
+ }
+
+.on{
+    background-color: yellow;
+ }
+
+.off{
+    background-color: #aaa;
+ }
+
+.btn{
+    font-size: 3rem;
+    background-color: rgb(91, 73, 45);
+    color: white;
+    border: solid 10px greenyellow;
+ }
